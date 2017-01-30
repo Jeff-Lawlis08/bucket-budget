@@ -1,1 +1,2 @@
-Budgeting App
+The Bucket Budget app allows users to set up a monthly budget by creating seperate "buckets" that when selected money will be drawn from that bucket alone. Linked to your bank account it allows couples with a shared account to use the app at the same time. Following the Dave Ramsey Envelope method this allows users to see the limits of their accounts and regain control of their spending.
+Built using React, and Plaid's Bank API.
